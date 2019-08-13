@@ -3,4 +3,4 @@ yes
 //
 additional information
 -----------------------
-about reset from commit
+content after push 
