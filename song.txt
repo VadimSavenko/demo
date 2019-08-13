@@ -1,4 +1,6 @@
 hey, it's flume
 yes
 //
-additional information 
+additional information
+-----------------------
+about reset from commit
